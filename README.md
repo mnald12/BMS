@@ -1,2 +1,2 @@
 # bis
-Barangay Information System using core PHP
+Barangay Management System using core PHP
