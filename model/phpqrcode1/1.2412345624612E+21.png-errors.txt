@@ -1,0 +1,114 @@
+2021-11-02 19:40:29: <br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type float in <b>C:\xampp\htdocs\bis-master\model\phpqrcode1\qrsplit.php</b> on line <b>62</b><br />
